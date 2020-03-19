@@ -1,0 +1,10 @@
+Domain:  ponteabeja.epizy.com
+
+https://infinityfree.net/
+https://app.infinityfree.net/accounts/epiz_25361593
+
+ft:
+username: epiz_25361593
+pass: bgCmWS6ve4FP7
+ftp hostname o server: ftp.epizy.com
+use ftp (prior than ftps)
